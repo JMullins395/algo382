@@ -33,7 +33,7 @@ public class ShortestPath {
         }
 
         if (!p.containsKey(end)) {
-            System.out.println("No path found.");
+            System.out.println("No path.txt found.");
             return;
         }
 
